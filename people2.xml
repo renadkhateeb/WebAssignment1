@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<network>
+  <user ID="1">
+   
+    <firstname>Renad</firstname>
+    <lastname>khateeb</lastname>
+    <Gender>Female</Gender>
+    <birthdate>26 June 1994</birthdate>
+    <gps> 
+        <x> 57</x>
+        <y> 230</y>
+    </gps>
+     <address> Ramallah</address>
+    <hobbies>  swimming, reading</hobbies>
+   
+	<nationality>Palestinian</nationality>
+  </user>
+  
+  
+    <user ID="2">
+   
+    <firstname>Tala</firstname>
+    <lastname>Moin</lastname>
+    <Gender>Female</Gender>
+    <birthdate>18 Aug 1995</birthdate>
+    <gps> 
+        <x> 56</x>
+        <y> 230</y>
+    </gps>
+    <address> Berziet</address>
+    <hobbies> drawing, swimming, hourseback riding</hobbies>
+	<nationality>Jordinian</nationality>
+  </user>
+  
+    <user ID="3">
+   
+    <firstname>Layali</firstname>
+    <lastname>mhmad</lastname>
+    <Gender>Female</Gender>
+    <birthdate>25 June 1993</birthdate>
+    <gps> 
+        <x> 50</x>
+        <y> 230</y>
+    </gps>
+     <address> Ramallah</address>
+    <hobbies> sleeping</hobbies>
+    
+	<nationality>Palestinian</nationality>
+  </user>
+  
+    <user ID="4">
+   
+    <firstname>Samer</firstname>
+    <lastname>ajouli</lastname>
+    <Gender>male</Gender>
+    <birthdate>20 July 1995</birthdate>
+    <gps> 
+        <x> 58</x>
+        <y> 235</y>
+    </gps>
+     <address> Ramallah</address>
+    <hobbies> sleeping, talking</hobbies>
+    
+	<nationality>Palestinian</nationality>
+  </user>
+  
+    <user ID="5">
+   
+    <firstname>abdullah</firstname>
+    <lastname>nasser</lastname>
+    <Gender>male</Gender>
+    <birthdate>18 Aug 1994</birthdate>
+    <gps> 
+        <x> 765</x>
+        <y> 230</y>
+    </gps>
+     <address> Abu-dees</address>
+    <hobbies> sleeping,volleyball, football</hobbies>
+    
+	<nationality>Palestinian</nationality>
+  </user>
+  
+  
+ 
+</network>
+
+
+
